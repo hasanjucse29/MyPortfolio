@@ -1,0 +1,32 @@
+.Nav{
+    display: flex;
+    list-style-type: none;
+    background-color: rgb(54, 107, 154);
+    justify-content:left;
+    border-radius: 10px;
+    margin: 0px 10px 30px;
+
+   
+  
+}
+.Nav li{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(106, 208, 114);
+    justify-content:space-around;
+    border-radius: 20pxpx%;
+    
+
+}
+.Skills{
+    color: rgb(245, 252, 198);
+    background-color: rgb(6, 66, 66);
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.Li{
+    border-radius: 10px;
+}
