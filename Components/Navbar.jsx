@@ -1,7 +1,7 @@
 import'../Styles/Nav.css';
 function Navbar() {
     return ( 
-        <div >
+        <div className='container NavContainer '  >
             <nav>
                 <ul className="Nav">
                     <li className='Li'>Home</li>

@@ -1,26 +1,30 @@
 .Nav{
     display: flex;
     list-style-type: none;
-    background-color: rgb(54, 107, 154);
-    justify-content:left;
+    background-color: rgb(14, 14, 14);
+    justify-content:space-between;
     border-radius: 10px;
     margin: 0px 10px 30px;
+    padding: 5px 15px;
+    color:rgb(3, 1, 11);
+    border: solid rgb(81, 132, 158) 10px;
 
    
   
 }
 .Nav li{
     margin: 10px;
-    padding: 10px;
-    background-color: rgb(106, 208, 114);
+    padding: 10px 50px;
+    background-color: rgb(138, 244, 168);
     justify-content:space-around;
     border-radius: 20pxpx%;
+    
     
 
 }
 .Skills{
     color: rgb(245, 252, 198);
-    background-color: rgb(6, 66, 66);
+    background-color: rgb(21, 107, 107);
     display: flex;
     justify-content: space-between;
     margin: auto;
@@ -29,4 +33,7 @@
 }
 .Li{
     border-radius: 10px;
+}
+.NavContainer{
+    margin-top: 10px;
 }

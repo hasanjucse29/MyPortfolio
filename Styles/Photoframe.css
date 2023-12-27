@@ -3,8 +3,13 @@
 }
 .frame
 {
-    background-color: rgb(148, 161, 171);
+    background-color: rgb(3, 111, 111);
     padding: 20px;
     border-radius:10px;
     margin: 0px 10px 30px;
+    color: rgb(245, 252, 198);
+    border: solid rgb(108, 191, 202) 10px;
+}
+.Skills{
+    border: solid rgb(108, 191, 202) 10px;
 }

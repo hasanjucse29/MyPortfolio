@@ -1,13 +1,15 @@
 
+import Footer from '../Components/Footer'
 import Navbar from '../Components/Navbar'
 import Photoframe from '../Components/Photoframe'
 
 function App() {
  return (
    
-      <div>
+      <div >
         <Navbar/>
         <Photoframe/>
+        <Footer/>
       </div>
   )
 }

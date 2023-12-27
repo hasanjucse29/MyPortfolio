@@ -2,7 +2,7 @@ import MyImage from './hasan.jpg';
 import'../Styles/Photoframe.css';
 function Photoframe() {
     return ( 
-        <div>
+        <div className='container'>
         <div className='frame'>
             <img className='image' src={MyImage} alt="Hasan"  width="200px" />
         <h1>Hasan Al Mamun</h1>
